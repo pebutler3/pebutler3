@@ -22,6 +22,9 @@ Here are some ideas to get you started:
     <a href="https://seesparkbox.com/foundry/build_a_blog_with_gridsome_vue.js_framework_for_JAMstack_apps">Gridsome: Let's Build Something!</a>
   </li>
   <li>
+    <a href="https://sparkbox.com/foundry/creating_a_headless_cms_with_graphcms">Going Headless with GraphCMS</a>
+  </li>
+  <li>
       <a href="https://anglebracket.xyz">The Angle Bracket</a>
   </li>
 </ul>
