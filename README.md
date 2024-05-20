@@ -19,6 +19,9 @@ Here are some ideas to get you started:
 ## Stuffs
 <ul>
   <li>
+    <a href="https://pebutler3.com/blog/why-am-i-not-receiving-interviews">An Open Question: Why Am I Not Receiving Interviews?</a>
+  </li>
+  <li>
     <a href="https://sparkbox.com/foundry/creating_a_headless_cms_with_graphcms">Going Headless with GraphCMS</a>
   </li>
   <li>
